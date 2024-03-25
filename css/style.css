@@ -1,0 +1,18 @@
+header {
+    background-image: url(../post-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+img {
+    height: 200px;
+
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+.active {
+    background-color: rgb(65, 57, 57);
+}
